@@ -8,11 +8,11 @@ Machine Learning HW
 
 ## Data Source Columns (50)
 * kepid:          KepID
-* kepoi_name:     KOI Name
-* kepler_name:    Kepler Name
-* koi_disposition: Exoplanet Archive Disposition
-* koi_pdisposition: Disposition Using Kepler Data
-* koi_score:      Disposition Score
+* <b>kepoi_name:     KOI Name</b>
+* <b>kepler_name:    Kepler Name</b>
+* <b>koi_disposition: Exoplanet Archive Disposition</b>
+* <b>koi_pdisposition: Disposition Using Kepler Data</b>
+* <b>koi_score:      Disposition Score</b>
 * koi_fpflag_nt:  Not Transit-Like False Positive Flag
 * koi_fpflag_ss:  Stellar Eclipse False Positive Flag
 * koi_fpflag_co:  Centroid Offset False Positive Flag
